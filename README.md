@@ -1,7 +1,7 @@
 ## MarkTen - Cash Register.
    
    
-It is developed using HTML, CSS, and JavaScript, [live demo ]() hosted on netlify.
+It is developed using HTML, CSS, and JavaScript, [live demo ](https://mar-ten-cash-register.netlify.app/) hosted on netlify.
 
 #### Features 
 - program has currencies of Rs. 1, 5, 10, 20, 100, 500, 2000.
